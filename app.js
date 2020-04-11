@@ -38,8 +38,8 @@ document.addEventListener('DOMContentLoaded', () => {
       img: 'images/lula9.jpg'
     },
     {
-      name: 'Lula10',
-      img: 'images/Lula10.jpg'
+      name: 'lula10',
+      img: 'images/lula10.jpg'
     },
     {
       name: 'lula11',
@@ -110,8 +110,8 @@ document.addEventListener('DOMContentLoaded', () => {
       img: 'images/lula9.jpg'
     },
     {
-      name: 'Lula10',
-      img: 'images/Lula10.jpg'
+      name: 'lula10',
+      img: 'images/lula10.jpg'
     },
     {
       name: 'lula11',
