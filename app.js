@@ -42,8 +42,8 @@ document.addEventListener('DOMContentLoaded', () => {
       img: 'images/Lula10.jpg'
     },
     {
-      name: 'Lula11',
-      img: 'images/Lula11.jpg'
+      name: 'lula11',
+      img: 'images/lula11.jpg'
     },
     {
       name: 'lula12',
@@ -114,8 +114,8 @@ document.addEventListener('DOMContentLoaded', () => {
       img: 'images/Lula10.jpg'
     },
     {
-      name: 'Lula11',
-      img: 'images/Lula11.jpg'
+      name: 'lula11',
+      img: 'images/lula11.jpg'
     },
     {
       name: 'lula12',
